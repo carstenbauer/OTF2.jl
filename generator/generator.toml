@@ -1,0 +1,4 @@
+[general]
+library_name = "libotf2"
+output_file_path = "./LibOTF2.jl"
+module_name = "LibOTF2"
