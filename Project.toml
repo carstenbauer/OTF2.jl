@@ -1,0 +1,4 @@
+name = "OTF2"
+uuid = "1d8516d8-baf1-4693-ac56-03c3188416a2"
+authors = ["Carsten Bauer <crstnbr@gmail.com>"]
+version = "0.1.0"
